@@ -1,1 +1,1 @@
-# diwali_sales_analysis_bda
+# amazon_sales_analysis_bda
